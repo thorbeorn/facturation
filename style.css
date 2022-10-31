@@ -43,10 +43,14 @@
     content: "";
     border-bottom: 1px solid #565a5c;
     padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
-#all{
-    height: 28px;
+.side-logo{
+    margin: 25px 25%;
+    color: white;
+    flex: 0 0;
+    height: 24px;
     width: 136px;
-    margin: 25px 75px 25px 75px;
+    align-self: flex-start;
 }
